@@ -373,6 +373,7 @@ double compute_rpn(const Expression_elements *rpn) {
     return ret;
 }
 
+printf("a little error");
 
 
 
